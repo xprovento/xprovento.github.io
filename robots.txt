@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://xprovento.github.io/sitemap.html.gz
+Sitemap: https://xprovento.github.io/app/sitemap.html.gz
+Sitemap: https://xprovento.github.io/assets/sitemap.html.gz
+Sitemap: https://xprovento.github.io/css/sitemap.html.gz
+Sitemap: https://xprovento.github.io/includes/sitemap.html.gz
+Sitemap: https://xprovento.github.io/item/sitemap.html.gz
+Sitemap: https://xprovento.github.io/src/sitemap.html.gz
